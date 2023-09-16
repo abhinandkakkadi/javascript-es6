@@ -1,0 +1,6 @@
+Real world use case
+
+lets say we want to display our feed with latest update in a social media app like istagram
+for that the server can effectively takes in all the post details of our friends as array of object
+for each object in the array same kind of template/component is added and a fresh array with this change can be retrieved.
+so for data rendering application to front end this can be used.
