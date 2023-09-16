@@ -1,3 +1,8 @@
 Real world use cases
 
-delete all selected emails
+// delete all selected emails selected from front end by the user
+emails.forEach(function(email){
+  a function which will delete all email from database
+  delete(email);
+})
+
