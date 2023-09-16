@@ -1,0 +1,1 @@
+All of these method are used to avoid manual for loop
