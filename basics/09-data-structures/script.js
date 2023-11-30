@@ -54,6 +54,8 @@ const restaurant = {
 
 console.log("---- OR ----");
 // Use ANY data type, return ANY data type, short-circuiting
+
+// RETURN FIRST TRUTHY VALUE / LAST VALE IF NONE EXISTS
 console.log(3 || "Jonas");
 console.log("" || "Jonas");
 console.log(true || 0);
@@ -68,6 +70,7 @@ console.log(guests1);
 const guests2 = restaurant.numGuests || 10;
 console.log(guests2);
 
+// RETURN FIRST FALSY VALUE / LAST VALE IF NONE EXISTS
 console.log("---- AND ----");
 console.log(0 && "Jonas");
 console.log(7 && "Jonas");
