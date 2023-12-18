@@ -1,4 +1,4 @@
-// So Field is actually a type because it have a this method and value is an
+// So Field is actually a Constructor function because it have a this method and value is an
 // instance variable of type Field
 
 // note - function name is the type name - most probably Capitalized

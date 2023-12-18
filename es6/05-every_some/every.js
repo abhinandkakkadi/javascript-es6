@@ -5,7 +5,7 @@ var computers = [
 ];
 
 // for every helper it take each element of array inside the iterator function
-// and based on that condition it return true or false - after than we do logical and operation of
+// and based on that condition it return true or false - after that we do logical and operation of
 // every one of those result.
 // So in an essence only if all the of them are true it will return true
 

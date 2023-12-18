@@ -1,6 +1,6 @@
-consider the snippetbox application that i have created
+consider the snippetbox application that I have created
 
-we can see a breif listing of all the snippets and also a detailed list of individual snippets
+we can see a brief listing of all the snippets and also a detailed list of individual snippets
 
 here assume that each snippet have an id associated with them
 now if i want to go to any them i want their id. We an use that id to find
